@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Rafael Colaço</h1>
 <h3 align="center">Sou apaixonado por desenvolvimento, em qualquer linguagem!</h3>
 
-- 🌱 Atualmente estou aprendendo **Dart e Flutter**
+- 🌱 Atualmente estou aprendendo **Java e React**
 
 - 💬 Me pergunte sobre **Java, TypeScript, React**
 
