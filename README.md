@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Dart e Flutter**
 
-- 💬 Me pergunte sobre **Java, C, Dart**
+- 💬 Me pergunte sobre **Java, TypeScript, React**
 
 - 📫 Você me encontra em **afae9000@gmail.com**
 
